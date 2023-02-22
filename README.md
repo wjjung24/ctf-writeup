@@ -1,1 +1,1 @@
-# ctf-writeup
+# Writeups for CS and Cybersecurity Labs
