@@ -1,4 +1,4 @@
 # OvertheWire CTF Writeups
 
 Sections: 
-/Maze
+- /Maze
